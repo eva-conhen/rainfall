@@ -1,0 +1,47 @@
+2025-04-28 21:02:00,601 - AdminBackend - INFO - 成功加载模型
+2025-04-28 21:02:00,603 - RealTimeData - INFO - 实时数据收集器初始化完成，数据将保存到 data
+2025-04-28 21:02:00,603 - RealTimeData - INFO - 实时数据收集器初始化完成，数据将保存到 data
+2025-04-28 21:02:00,603 - Dashboard - INFO - 仪表盘管理器初始化完成
+2025-04-28 21:02:00,603 - RealTimeData - INFO - 启动数据收集调度器，间隔 30 分钟
+2025-04-28 21:02:00,603 - RealTimeData - INFO - 正在获取 beijing 的实时天气数据
+2025-04-28 21:02:00,604 - RealTimeData - INFO - 成功获取天气数据: {
+  "location": "beijing",
+  "timestamp": "2025-04-28 21:02:00",
+  "day": 118,
+  "pressure": 1016.1596866516134,
+  "maxtemp": 28.46534924348243,
+  "temparature": 21.947559351197082,
+  "mintemp": 20.65883904099547,
+  "dewpoint": 16.806200698550754,
+  "humidity": 61.530297367467625,
+  "cloud": 57.87004808121454,
+  "sunshine": 4.79497502438722,
+  "winddirection": 247.0742927194598,
+  "windspeed": 8.43574801254903
+}
+2025-04-28 21:02:00,604 - RealTimeData - INFO - 数据收集调度器已在后台启动
+2025-04-28 21:02:00,650 - AppIntegration - INFO - 实时数据收集已启动，间隔 30 分钟
+2025-04-28 21:02:00,651 - AppIntegration - INFO - 路由注册完成
+2025-04-28 21:02:00,651 - AppIntegration - INFO - 应用程序集成模块初始化完成
+2025-04-28 21:02:00,651 - AppIntegration - INFO - 实时数据和仪表盘功能已成功集成到主应用程序
+2025-04-28 21:02:00,651 - RealTimeData - INFO - 实时数据收集器初始化完成，数据将保存到 data
+2025-04-28 21:02:00,651 - RealTimeData - INFO - 正在获取 beijing 的实时天气数据
+2025-04-28 21:02:00,651 - RealTimeData - INFO - 成功获取天气数据: {
+  "location": "beijing",
+  "timestamp": "2025-04-28 21:02:00",
+  "day": 118,
+  "pressure": 1016.9238468423623,
+  "maxtemp": 24.395994178561637,
+  "temparature": 21.053828728084927,
+  "mintemp": 17.354487802634537,
+  "dewpoint": 14.456083673430065,
+  "humidity": 54.0127965199442,
+  "cloud": 66.09106156313888,
+  "sunshine": 6.544387751647732,
+  "winddirection": 204.97294175118523,
+  "windspeed": 10.016159842325903
+}
+2025-04-28 21:02:00,652 - RealTimeData - INFO - 数据已保存到新文件 data/weather_data_20250428.csv
+2025-04-28 21:02:00,653 - RealTimeData - INFO - 数据已保存到新文件 data/weather_data_20250428.csv
+2025-04-28 21:02:16,005 - AdminBackend - INFO - 成功加载模型
+2025-04-29 14:12:18,826 - AdminBackend - INFO - 成功加载模型
